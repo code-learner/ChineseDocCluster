@@ -8,7 +8,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Created by xiaomeng on 2016/12/19.
+ * Created by codeLearner on 2016/12/19.
  */
 public class TextCluster {
     public static void main(String[] args){
